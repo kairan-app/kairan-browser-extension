@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Kairan",
+  "description": "Kanran client for web browser",
+  "version": "1.0",
+  "action": {
+    "default_popup": "kairan.html",
+    "default_icon": "sample.png"
+  }
+}
