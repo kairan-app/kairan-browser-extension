@@ -6,5 +6,8 @@
   "action": {
     "default_popup": "kairan.html",
     "default_icon": "sample.png"
-  }
+  },
+  "host_permissions": [
+    "https://*"
+  ]
 }
